@@ -6,4 +6,4 @@
 -- | New York Mets | Pete       | Alonso    | 53        |
 -- +---------------+------------+-----------+-----------+
 
-
+select teams.name, players.first_name, players.last_name, sum(hits)

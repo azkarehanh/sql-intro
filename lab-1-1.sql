@@ -20,4 +20,4 @@ SELECT year, name FROM teams;
 -- to check all tables: ".schema"
 -- .mode column
 -- .headers on
- 
+-- ".exit" to go back in the linux command prompt
