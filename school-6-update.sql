@@ -1,3 +1,3 @@
 UPDATE students
 SET email = "janedoe@gmail.com"
-WHERE id = 1;
+WHERE id = 1; 

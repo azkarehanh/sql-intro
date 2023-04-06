@@ -28,4 +28,4 @@ select first_name, last_name
 from players 
 inner join stats on stats.player_id = players.id
 inner join teams on stats.team_id = teams.id 
-where teams.name = "Chicago Cubs" and teams.year = 2020;
+where teams.name = "Chicago Cubs" and teams.year = 2020; 

@@ -7,4 +7,4 @@ VALUES (
     "Jane",
     "Doe",
     "jane@example.com"
-);
+); 
