@@ -13,4 +13,11 @@
 -- | 2020 | Washington Nationals              |
 -- +------+-----------------------------------+
 
+SELECT year, name FROM teams;
 
+-- instructions
+-- first and foremost, call the sqlite3 program using: "sqlite3 baseball.sqlite3"
+-- to check all tables: ".schema"
+-- .mode column
+-- .headers on
+ 
